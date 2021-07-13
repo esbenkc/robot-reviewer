@@ -10,5 +10,6 @@ Helps you review papers by highlighting the areas relevant to your interests! In
 
 ## Other resources
 - [NLPedia](http://nlpedia.ai/)
-- [RoboReviewer on NLPedia](http://review.nlpedia.ai/)
+- [ReviewAdvisor on NLPedia](http://review.nlpedia.ai/)
+- [ReviewAdvisor on Github](https://github.com/neulab/ReviewAdvisor)
 - [Robot Reviewer](https://github.com/ijmarshall/robotreviewer)
